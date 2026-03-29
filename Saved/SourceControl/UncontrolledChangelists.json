@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Games/MyProject/Content/Input/IMC_Default.uasset",
+				"D:/Games/MyProject/Content/ThirdPerson/Zipline/BP_Zipline.uasset",
+				"D:/Games/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/AM/WDEMOCBPTJL7EUN7HO9LQZ.uasset",
+				"D:/Games/MyProject/Content/Input/Actions/IA_Interact.uasset",
+				"D:/Games/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/JM/YWFKC8CUFD0QO0P47XUYX0.uasset",
+				"D:/Games/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Games/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626.uasset",
+				"D:/Games/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/LB/55XZRZVXPWYSPBFD2OIMK4.uasset",
+				"D:/Games/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/VI/3AEC5MYK40UFRZHSFQTIS5.uasset",
+				"D:/Games/MyProject/Content/ThirdPerson/Zipline/WB_PopUp.uasset",
+				"D:/Games/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/HL/KH6JSZB9MMVI27JMGIXU94.uasset",
+				"D:/Games/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/HO/GFIM80600RTM6YIL05XM9A.uasset",
+				"D:/Games/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/XN/YSS7JYVW7V3YJQ0JBAILZU.uasset",
+				"D:/Games/MyProject/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset",
+				"D:/Games/MyProject/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset",
+				"D:/Games/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/YH/TAWJ0CA1DZGMGPV9P045JE.uasset"
+			]
+		}
+	]
+}
