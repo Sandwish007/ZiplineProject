@@ -1,0 +1,9 @@
+[8572:9872:0402/023651.969:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[8572:9872:0402/023652.208:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[10664:8860:0402/023702.576:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-90C1A57A527F34879FF2282A963741AD will be ignored
+[8572:12848:0402/023705.591:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[8572:9872:0402/023706.202:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[8572:9872:0402/023706.202:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[8572:9872:0402/023706.202:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[8572:9872:0402/023706.202:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[8572:12848:0402/023706.205:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]

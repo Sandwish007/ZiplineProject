@@ -7,7 +7,6 @@
 			"files": [
 				"D:/Games/MyProject/Content/Input/IMC_Default.uasset",
 				"D:/Games/MyProject/Content/ThirdPerson/Zipline/BP_Zipline.uasset",
-				"D:/Games/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/AM/WDEMOCBPTJL7EUN7HO9LQZ.uasset",
 				"D:/Games/MyProject/Content/Input/Actions/IA_Interact.uasset",
 				"D:/Games/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/JM/YWFKC8CUFD0QO0P47XUYX0.uasset",
 				"D:/Games/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
@@ -17,10 +16,16 @@
 				"D:/Games/MyProject/Content/ThirdPerson/Zipline/WB_PopUp.uasset",
 				"D:/Games/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/HL/KH6JSZB9MMVI27JMGIXU94.uasset",
 				"D:/Games/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/HO/GFIM80600RTM6YIL05XM9A.uasset",
-				"D:/Games/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/XN/YSS7JYVW7V3YJQ0JBAILZU.uasset",
 				"D:/Games/MyProject/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset",
 				"D:/Games/MyProject/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset",
-				"D:/Games/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/YH/TAWJ0CA1DZGMGPV9P045JE.uasset"
+				"D:/Games/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/U0/ZNLJQ0JLJS3YKSKL3GUXNI.uasset",
+				"D:/Games/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/WF/GSZIJH3TUUV516OM4DZX1B.uasset",
+				"D:/Games/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/EZ/WXV2TPV2N0FPILPRF6QNC4.uasset",
+				"D:/Games/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/XN/YSS7JYVW7V3YJQ0JBAILZU.uasset",
+				"D:/Games/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/YH/TAWJ0CA1DZGMGPV9P045JE.uasset",
+				"D:/Games/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/NU/ZF2ZK63E6AZKXKSI0SZ5S1.uasset",
+				"D:/Games/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/4B/IXY8SMEZT4VUPHNO2TUIYJ.uasset",
+				"D:/Games/MyProject/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/AM/WDEMOCBPTJL7EUN7HO9LQZ.uasset"
 			]
 		}
 	]

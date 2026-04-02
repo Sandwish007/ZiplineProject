@@ -1,0 +1,19 @@
+[6508:3860:0401/232451.752:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[6508:3860:0401/232501.746:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[9128:1480:0401/232557.413:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-59EB5673561223B18BA5205FEE0FE7DB will be ignored
+[6508:6924:0401/232608.653:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[6508:3860:0401/232608.982:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[6508:3860:0401/232608.983:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[6508:6924:0401/232609.004:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[6508:3860:0401/232609.005:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[6508:3860:0401/232609.005:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[10360:12848:0401/232818.041:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[10360:12848:0401/232818.041:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[6508:3860:0402/020203.083:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[6508:3860:0402/020208.075:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[6508:3860:0402/020213.076:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[6508:3860:0402/020218.087:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[6508:3860:0402/020223.125:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[6508:3860:0402/020228.233:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[6508:3860:0402/020323.562:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[6508:3860:0402/020644.948:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0

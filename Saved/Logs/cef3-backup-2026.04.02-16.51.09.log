@@ -1,0 +1,21 @@
+[6200:6400:0402/171349.458:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[6200:6400:0402/171355.536:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[6200:10932:0402/171434.516:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[6200:10932:0402/171434.831:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[6200:6400:0402/171434.840:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[6200:6400:0402/171434.840:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[6200:6400:0402/171434.840:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[6200:6400:0402/171434.841:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[3184:11016:0402/171644.963:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[3184:11016:0402/171644.964:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[6200:6400:0402/193619.559:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[6200:6400:0402/194511.892:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[6200:6400:0402/194657.568:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[6200:6400:0402/194702.618:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[6200:6400:0402/194958.935:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[6200:6400:0402/195014.071:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[6200:6400:0402/195019.114:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[6200:6400:0402/195024.256:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[6200:6400:0402/195029.303:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[6200:6400:0402/195034.352:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[6200:6400:0402/195109.531:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0

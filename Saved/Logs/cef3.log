@@ -1,12 +1,10 @@
-[12196:13728:0329/010835.907:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[12196:13728:0329/010838.206:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[17240:9668:0329/010858.925:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-08568439D009C9A02F1EBC50030EF7D5 will be ignored
-[12196:14976:0329/010902.783:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[12196:14976:0329/010903.493:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[12196:13728:0329/010903.493:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[12196:13728:0329/010903.494:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[12196:13728:0329/010903.494:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[12196:13728:0329/010903.494:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[12964:1348:0329/011115.297:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[12964:1348:0329/011115.297:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[12196:13728:0329/025832.950:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[5552:4180:0402/204007.825:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[5552:4180:0402/204010.441:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[11584:9952:0402/204030.450:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-46FF6ADB8811E5CF0E6C84243ED2547D will be ignored
+[5552:7428:0402/204034.475:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[5552:4180:0402/204034.785:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[5552:4180:0402/204034.785:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[5552:4180:0402/204034.786:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[5552:4180:0402/204034.786:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[5552:7428:0402/204034.787:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[5552:4180:0402/214454.922:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
