@@ -1,10 +1,4 @@
-[5552:4180:0402/204007.825:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[5552:4180:0402/204010.441:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[11584:9952:0402/204030.450:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-46FF6ADB8811E5CF0E6C84243ED2547D will be ignored
-[5552:7428:0402/204034.475:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
-[5552:4180:0402/204034.785:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[5552:4180:0402/204034.785:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[5552:4180:0402/204034.786:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[5552:4180:0402/204034.786:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[5552:7428:0402/204034.787:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
-[5552:4180:0402/214454.922:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[13096:2064:0402/214850.466:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[13096:2064:0402/214850.510:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[4408:7364:0402/214853.976:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-13B6F1A5D169B6B264EDD1CF988E6973 will be ignored
+[13096:2064:0402/221720.175:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
